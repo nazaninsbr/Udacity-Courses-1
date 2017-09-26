@@ -1,0 +1,6 @@
+Virtual Machine:
+
+	A virtual machine (VM) is a computer program that simulates a computer. 
+
+Vagrant:	
+	 is a program that makes VMs more convenient to use. 
