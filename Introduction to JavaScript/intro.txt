@@ -1,0 +1,10 @@
+HTML and CSS are markup languages. Markup languages are used to describe and define elements within a document. JavaScript is a programming language. Programming languages are used to communicate instructions to a machine. Programming languages can be used to control the behavior of a machine and to express algorithms.
+
+
+net scape navigator:
+	one of the first web serfers
+
+Java and JavaScript are not related!
+
+
+you can modify parts of the page or add stuff to it using javaScript

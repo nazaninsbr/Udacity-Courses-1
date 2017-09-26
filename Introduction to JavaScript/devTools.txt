@@ -1,0 +1,9 @@
+Chrome:
+	Open dev tools:
+		Command + Option + i 
+
+	you can use the console part to test out your JS codes 
+
+Safari:
+	Open inspect element:
+		Command + Option + i 
