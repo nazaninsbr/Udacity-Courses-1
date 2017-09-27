@@ -1,0 +1,12 @@
+localization:
+	translating and adapting a product or service to a language, culture and geographic culture
+
+	two aspects:
+		1. stylistic:
+			make sure the tone of the language you use is appropriate 
+
+		2. technical:
+			you may need to change stuff like time, direction of reading and ...
+
+	making a whole product feel tailored to users everywhere
+	

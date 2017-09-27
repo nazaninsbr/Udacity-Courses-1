@@ -1,0 +1,16 @@
+the history of translation: 4000+ years old
+
+localization: in the 90s
+
+the expantion of SW and HW developers triggered the need to support other languages
+
+translating a sw is harder because it is constantly being updated
+
+- translators 
+- engineers to develop with consideration of the culture
+
+they decided to outsource localization
+- translation 
+- engineering 
+- desktop publication 
+- managing
