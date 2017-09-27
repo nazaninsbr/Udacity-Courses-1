@@ -1,0 +1,9 @@
+the rectangles on the screen that make up the layout of the app (the rectangle is actually invisible) 
+types of views:
+	- TextView
+	- ImageView
+	- button 
+
+
+user interface:
+	the stuff that you can see and interact with 

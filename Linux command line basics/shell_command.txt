@@ -1,0 +1,8 @@
+shell command:
+	- unit of code
+	- has a name
+	- takes argument
+
+	- actually a whole program 
+
+	- used to run programs

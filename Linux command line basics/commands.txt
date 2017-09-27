@@ -1,0 +1,112 @@
+ls:
+	to give you the content of your directory
+
+exit or control-D:
+	exit the terminal
+
+curl:
+	download stuff from the internet
+
+$:
+	the prompt that you can enter a command afetr
+
+cowsay:
+	makes a cow say a string
+	use it like:
+		cowsay string
+	you need to install it firt though:
+		sudo apt install cowsay
+
+date:
+	gives you the date and time
+
+expr 2 + 2:
+	calculates the result
+	you need spaces between the numbers and the operator
+
+echo:
+	prints the thing you write in front of it
+
+uname:
+	prints the name of the OS
+
+hostname:
+	prints the name of the computer user
+
+host example.com:
+	gives you the address back and some additional info
+	the Domain Name System
+
+bash --version:
+	gives you the version of the bash
+
+history:
+	history of the commands you have run
+
+rm filename.txt:
+	removes the file you have given the name of
+
+uptime:
+	current time, up time, number of loged in users, load average (the number of processes it is running right now - how busy it is)
+
+': 
+	the line continues to the next line
+
+\':
+	to see and actual opostropy (dictation?)
+
+unzip:
+	it unzips the file
+
+cat:
+	concatinates files and gives you the result
+	basically reads the file and prints it out for you
+	cat filename
+
+wc:
+	this is the word count program 
+	you give it a file name and it gives you the number: lines, words and letters
+
+diff:
+	compates two files and shows you how they are different
+
+
+ls -a:
+	show the .filenames too
+
+ls -l:
+	file name 
+	modification time
+	size in bytes
+	file or directory 
+
+rm -rf /:
+	deletes everything that the user account has access to!
+
+ping 8.8.8.8:
+	pings the google server
+
+sort:
+	sorts line in alphabetical order
+	Control-D gives it the EOF 
+
+bc:
+	you can do mathematical calculations
+	Control-D or writting "exit" will make it stop
+
+
+less filename:
+	> last line
+	< first line
+	type line number + Enter
+	/the_string_you_want_to_search_for
+
+
+nano :
+	make or edit files in the terminal
+
+pwd:
+	print working directory 
+
+cd: 
+	change directory

@@ -1,0 +1,11 @@
+cowsay -f tux Tus is linux\'s mascot!
+
+
+cowsay -e ^^ hello again
+
+
+man cowsay:
+	man page:
+		- name and discription
+		- how to use it 
+		- press q to exit

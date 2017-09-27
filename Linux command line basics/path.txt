@@ -1,0 +1,6 @@
+/:
+	root
+
+full path = absolute path 
+
+relative path -> refer to file with just its name or ./

@@ -1,0 +1,7 @@
+. in the beginning of a name is stuff that the OS uses in order to config stuff and they are not important to us 
+
+
+how to make them appear when using 'ls':
+		
+
+		ls -a
