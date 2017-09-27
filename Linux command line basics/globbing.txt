@@ -1,0 +1,22 @@
+kind of pattern matching in the command line!
+
+
+*:
+	matches any sort of character
+
+	*pp*:
+		any file that contins "pp" in its name
+
+
+
+?:
+	any one character
+
+??:	
+	any two characters
+
+...
+...
+...
+
+*{jpg, JPG}
