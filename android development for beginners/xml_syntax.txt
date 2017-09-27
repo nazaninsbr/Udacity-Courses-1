@@ -1,0 +1,16 @@
+<ViewName	
+	atributes
+	/>
+
+
+
+* 	every tag you open you need to close it
+*	we have self closing tags or have a closing and openning tags
+
+
+
+
+for now we can use this to learn:
+
+
+	http://labs.udacity.com/android-visualizer/#/android/text-view

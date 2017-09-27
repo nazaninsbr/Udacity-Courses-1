@@ -1,0 +1,1 @@
+use dp instead of pixels because using that will make the device keep the size as it is but assign more pixels to it
