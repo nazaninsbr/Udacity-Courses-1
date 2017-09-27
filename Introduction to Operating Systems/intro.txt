@@ -1,0 +1,7 @@
+OS:
+	piece of software that:
+
+	- abstracts: simplifies the way we see teh HW
+	- aribitrate: control the HW
+
+	the underlying hardware system 

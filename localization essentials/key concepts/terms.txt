@@ -1,0 +1,26 @@
+Globalization:
+		
+	 addresses the business issues associated with taking a product global. In the globalization of high-tech products this involves integrating localization throughout a company, after proper internationalization and product design, as well as marketing, sales, and support in the world market.
+
+
+Internationalization:
+	
+	 is the process of generalizing a product so that it can handle multiple languages and cultural conventions without the need for re-design. 
+
+
+Globalization vs. Internationalization vs. Localization:
+
+	Since these three terms are related, it’s easy to confuse them. Internationalization is a process that takes place before localization. The goal is to make the product easy to localize by engineering the product in a way that can accommodate multiple languages and cultures, such as with the date formatting example given above. Localization, on the other hand, is the act of actually translating the content to fit a certain locale.
+
+	Globalization is different from both Localization and Internationalization. Globalization is a marketing strategy to do business in and offer products in international markets. Let’s take Google Fit as an example. When the Google Fit team decides to go global and get the app localized into other languages, they prepare a sizable marketing and business budget. They may also develop strategies to compete with local apps in the markets the Google Fit team wants to enter. All of these strategies fall under the umbrella of “Globalization”.
+
+Translation:
+
+	Translation is converting the meaning from one language to another and refers to written text form. Translation is only a part of the whole localization process as localization also involves adapting date and time formats, changing currencies, cultural appropriation, changing the design and the way user experience a product and complying with local laws and regulations.
+
+Locale:
+
+	In the localization industry, locale refers to the linguistic, cultural and other requirements of a specific target market. For example, there are different locales for the English language and each is represented with a different locale code. En-US is for locales where American English is spoken while en-GB is for locales where British English is spoken. Similarly, zh-CN and zh-TW are for simplified Chinese and traditional Chinese (Taiwan).
+
+
+
