@@ -1,0 +1,28 @@
+- FAQ
+- Documentation 
+
+
+Where:
+
+online help can be found where there is a product that might need a level of help to be able to use correctly 
+
+
+Who:
+
+user base of a product will use it
+
+
+Why:
+
+the goal is to help a customer, clearly and very simple 
+
+
+
+
+
+how to do it write:
+	- product knowledge 
+		if they dont know the product well they cant be helpful 
+
+	- consistent terminology 
+		to use the same words that are used in the app in the help too

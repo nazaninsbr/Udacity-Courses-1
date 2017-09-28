@@ -1,0 +1,68 @@
+using markdown makes readmes that are easier to scan 
+
+markdown syntax:
+	
+	Markdown is a light markup language often used for READMEs
+
+	Make it Bold:
+		surround it with double asterisks:
+
+			**wonderful**
+
+	Make it Italic:
+		surround it with underscores
+
+			_did you see the cat?_
+
+	Code, and not regular word:
+
+			`strong`
+
+	Title:
+
+		## this is an h2
+		### this is and h3
+
+
+	List item:
+		* list item
+
+
+	Link:
+		[here](the url)
+
+	Code:
+		
+		```
+			write it here
+			skljd
+			alkdjf
+		```		
+
+	Note that HTML is still valid in Markdown
+
+
+	markdown has the extension
+			.md
+	you can not just open a file, you need to use something like "Dillinger"
+
+
+
+
+
+
+
+
+	USE THIS CHEATSHEET IF YOU NEEDED HELP WITH THE SYNTAX:
+
+
+		https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+
+	YOU CAN ALSO USE AN HTML TO MARKDOWN CONVERTER LIKE THIS:
+
+		https://www.browserling.com/tools/html-to-markdown
+
+
+

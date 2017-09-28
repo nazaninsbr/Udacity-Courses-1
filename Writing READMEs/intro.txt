@@ -1,0 +1,21 @@
+Why is documentation important?
+
+What is Documentation:
+
+	technical documentation exists in order for programmers to be able to use other peoples codes 
+
+	writen as a series or guids or tutorial or plain English 
+
+	documentation is written for humans 
+
+	if you are writing an open source library then you defenatly need a read me 
+
+	if you are writing a project in order to get a job you want the emplyer to be able to find the relevant stuff easily 
+
+
+	you can look for examples of how something is done in that library
+
+
+
+can you remember all the things you were thinking when you made that could?
+

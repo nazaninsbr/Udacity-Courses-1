@@ -1,0 +1,41 @@
+a content that has both a sound and a visual component
+
+where:
+	
+	videos usually complement other content types 
+
+	on marketing page, help page, online courses or ...
+
+
+who:
+	
+	depending on the place where the video is posted the audience differs
+
+why:
+	
+	videos get the message across faster
+	and they make people pay more attention 
+
+
+Challenge:
+
+	- how to localize:
+
+		1)revoicing
+			cover the original video with new spoken text in the target language
+
+			* voice over
+			* dubbing 
+				actors voices are working over the original track 
+			* narration
+			* audio description
+			* free commentary
+
+		2) subtitling 
+
+
+	- 
+		- subtitlers have to limit the text because the audiance can not read that much while looking at the video 
+
+		- in dubbing the voice over has to be able to sink with the speakers lips because it is wierd if you see the lips move before or after something is being said 
+		they can use sylabel counting for this

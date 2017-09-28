@@ -1,0 +1,13 @@
+- link to license 
+- allow others to contribute (then you SHOULD mention a license)
+- a prefered way you have for those wanting to help 
+- dont make stuff complicated 
+only add stuff as needed and when needed 
+let the read me grow with the code
+
+
+you might want these stuff:
+
+	* known bugs 
+	* frequently asked questions 
+	* table of content

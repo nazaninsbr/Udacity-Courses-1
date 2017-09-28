@@ -1,0 +1,21 @@
+Content:
+	
+	1. web app
+
+	2. mobile app
+
+	3. marketing content
+
+	4. help articles
+
+	- video 
+	- ...
+
+where:
+	is it going to be used
+
+who:
+	is going to use it
+
+why:
+	why do people use this thing!
