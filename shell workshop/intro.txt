@@ -1,0 +1,51 @@
+gui:
+	the graphical interface
+
+shell:
+	a command line for your computer
+
+Terminal:
+	the terminal is just an interface for the shell
+
+Commands:
+	echo $COLUMNS x $LINES:
+
+		gives you the terminal size
+
+	Print the content of a directoty:
+
+		- ls Directory 
+		- cd Directory; ls
+		- ls Directory/../Directory
+
+	ls options:
+
+		ls -l:
+			gives you aditional info such as access date or ..
+
+		ls *.pdf
+		...
+
+	grep word filename:
+
+		read the file and output all the lines that has contain that word
+
+
+	Pipe:
+		grep word filename | less
+		
+
+		it gets sent to the less program 
+
+		read it:
+			grep for word in filename and pipe it to less
+
+
+	variables:
+
+		name="nazanin"
+		echo $name
+
+		enviroment variables:
+
+			echo $PATH
