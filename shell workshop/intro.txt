@@ -49,3 +49,16 @@ Commands:
 		enviroment variables:
 
 			echo $PATH
+
+
+	PS1:
+		changes the way your prompt looks
+
+	alias:
+		alias ll='ls -la'
+		you can give commands shorter names
+
+
+
+
+The commands you put inside the .bash_profile get executed everytime you start a new terminal
