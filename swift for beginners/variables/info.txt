@@ -1,0 +1,26 @@
+Float vs. Double
+
+	Now what about these Float and Double types? They seem to represent pretty similar values, they're floating point numbers, but why would you use one over the other? Well that comes down to an issue of precision and being able to most accurately represent a floating point number.
+
+	Truth be told, computers actually have a pretty difficult time doing this. Usually computers even have special hardware dedicated just to floating-point numbers. Typically, you will want to use Double instead of Float because it can handle floating-point numbers at a higher-precision. But, Double isn’t always better — in cases where speed is more important than accuracy, you might want to choose Float instead.
+
+
+Camel casing
+
+	One popular convention is camelCasing. CamelCasing is the practice of writing names such that each word or abbreviation within a name begins with a capital letter. The following examples use camelCasing...
+
+		totalCumulativeScore
+		secondsSinceLastUpdate
+		minutesTillLaunch
+
+
+Literal
+
+	A literal is another word for a fixed value.
+	
+
+	A literal is a value that is written exactly as it's meant to be interpreted. In contrast, a variable is a name that can represent different values during the execution of the program. And a constant is a name that represents the same value throughout a program. But a literal is not a name — it is the value itself.
+
+	
+	check this out:
+		https://stackoverflow.com/questions/485119/what-does-the-word-literal-mean
