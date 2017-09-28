@@ -1,0 +1,5 @@
+<ImageView
+	android:src="@drawable/android"
+	android:layout_width="900dp"
+	android:layout_height="900dp"
+	android:scaleType="center"/>
