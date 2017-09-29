@@ -1,0 +1,29 @@
+- Abstractions
+
+	process, thread, file, socket, memory, memory page
+
+- Mechanisms 
+
+	create, schedule, open, write, allocate
+
+- Policies
+
+	how the mechanisms will be used to manage the underlying hardware
+
+	least recently used or ...
+
+
+
+
+Memory managment example:
+
+	abstraction: 
+		memory page 
+
+	mechanism:
+		allocate page in DRAM 
+		map to a process
+
+	policies:
+		decide if the date should be saved on the physical memory or on the disk considering the fact that access to the disk is more time consuming 
+			using LRU [least recently used] or ...

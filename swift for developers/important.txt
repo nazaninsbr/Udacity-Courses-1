@@ -1,0 +1,22 @@
+- characters 
+	
+
+	for x in s.characters{
+
+	}
+
+- count 
+	
+	s.characters.count
+
+- characters.reversed()
+
+	var p = s.characters.reversed()
+
+- contains 
+
+	s.contains("p")
+
+- replacingOccurrences(of: , with:) 
+	
+	s.replacingOccurrences(of:"a", with:"A")

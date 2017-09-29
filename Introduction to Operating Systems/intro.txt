@@ -5,3 +5,23 @@ OS:
 	- aribitrate: control the HW
 
 	the underlying hardware system 
+
+
+
+Computing system:
+	
+	processing parts (cpu)
+	memory 
+	network card or ...
+	graphic processing devices
+	storage devices 
+
+	and they are (usually) used by multiple applications
+
+
+	OS sits between the hardware and the applications
+
+	- hides the hardware complexity
+	- resource managment
+	- provide isolation & protection 
+	
