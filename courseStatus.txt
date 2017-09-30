@@ -5,4 +5,4 @@ Finished Courses:
 3. Writing READMEs
 4. shell workshop
 5. swift for beginners
-6. 
+6. swift for Developers
