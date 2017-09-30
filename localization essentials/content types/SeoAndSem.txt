@@ -1,0 +1,25 @@
+SEM:
+	search engine marketing 
+
+	- Processes and tools that advertisers use to improve their ranking in search engine results and attract users to their websites
+
+	* seek to generate qualified search results for people who are searching for something special 
+
+organic search result Vs search ads:
+	
+	when you search for a term -> organic
+
+		* add terms that people will seach for 
+
+		SEO:
+			search engine optimization 
+
+			- part of a products website content
+			- key words in website content
+
+
+	ads pay when the website is clicked on
+
+
+People search for stuff based on search trends and culture 
+so the key words have to be location relevant

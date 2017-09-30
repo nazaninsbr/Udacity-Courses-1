@@ -1,0 +1,29 @@
+ui:
+	the space where interactions between the app and the user occures 
+
+	- web app
+	- desktop app
+	- mobile app
+
+	Where:
+		Desktop, web or on a phone
+
+	Who:
+		UI is used by new users as well us people who have been working with the product for a while now
+
+	Why:
+		enables users to accomplish thir goal 
+
+
+
+	* lack of product knowledge
+		not knowing how a product works
+	* lack of content
+		not knowing where elements will be written then it might be too big for a certain place
+
+
+
+
+	++ message descriptions 
+	++ reference material and guideline
+	
