@@ -1,0 +1,12 @@
+null:
+	
+	data type
+
+	"value of nothing"
+
+
+undefined:
+
+	data type
+
+	"absence of value"
