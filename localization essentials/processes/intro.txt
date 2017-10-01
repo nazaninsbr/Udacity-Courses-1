@@ -1,0 +1,15 @@
+1. product preparation 
+
+	before localization is done
+	the product needs to be designed with the idea of localization in mind 
+	they try to understand if a product will be succsessful in a certain market
+	number of speakers also matter in choosing the target markets 
+	think about the challenges such as legal or privacy stuff 
+
+	--> decide languages 
+	--> know problems and solutions 
+	--> start designing the app 
+
+2. project preparation
+3. project execution 
+4. quality assessment

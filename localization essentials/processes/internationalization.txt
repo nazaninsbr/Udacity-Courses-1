@@ -1,0 +1,46 @@
+like we said, when the team decides which languages it wants to be translated in, they need to design the product so that it will support those languages and their cultural conventions this is called internationalization
+
+
+Internationalization:
+
+	process of generalizing a product to handle multiple languages and cultural conventions. it happens during software development 
+
+
+
+they prepare it so it is language and reigon independent 
+
+
+Steps:
+	- desing and engineering 
+
+		a flexible product 
+		and pay attention to some parts of the UI like:
+			* density and fonts 
+			* layout 
+				like dont write text in images 
+			* colors 
+				they can have different meanings in different cultures 
+			* spacing 
+				character limit or ...
+			* message description
+			* dates, currencies, units, addresses and phone numbers 
+			* plurals and genders 
+				programming tool kits 
+
+	- testing 
+
+		Psuedolocalization:
+			simulation of localized text by replacing source text with fake characters
+
+			- not enough space 
+			- untranslated text
+			- improperly mirrored interface
+
+
+
+
+
+
+
+
+

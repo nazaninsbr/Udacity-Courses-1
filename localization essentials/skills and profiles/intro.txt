@@ -1,0 +1,24 @@
+Makes a localization request:
+
+	product team 
+
+the request is sent to:
+	
+	localization team
+
+	- localization production 
+
+		very request goes here
+		a LPM is assigned 
+		* localization project manages 
+			
+			sends files to language service providers 
+
+			language managers (when LPMs cant do the translation of all the content to all the languages themself)
+
+			
+	- language services 
+	- vendor management
+	- localization operations
+
+

@@ -1,0 +1,43 @@
+starts when they reach out to an LPM to have the project localized to a certain date 
+
+Project Evaluation:
+	1. Quotation (cost)
+		how much it will cost to do the translation and ...
+		- overview of project
+		- deadline 
+		- word count 
+	2. Schedule (time)
+		time estimate
+
+
+
+Localization kit:
+	* content to be translated 
+	* terminology
+	* translation memories
+	* style guide
+	* reference material
+
+
+	what content types are included?
+	is it ready to be localized?
+	...
+
+
+	Glossary:
+		contains the terms that are commonly used in the project and that need to be consistent throughout
+		also decides which terms will be left in the source language and also what they will do with the technical terms
+
+
+	Translation Memory:
+		database that contains all the previously translated segments from a product
+
+
+	Style Guid:
+		document outlining a set of standards and best practices in terms of how to handle a specific project
+
+
+	Reference Material:
+		anything that gives background info about the product that is being localized
+
+
