@@ -1,0 +1,22 @@
+Use Topic Branches:
+	Remember that it's incredibly helpful to make all of your commits on descriptively named topic branches. Branches help isolate unrelated changes from each other.
+
+	So when you're collaborating with other developers make sure to create a new branch that has a descriptive name that describes what changes it contains.
+
+GitHub:
+	hosting version control repositories
+
+Git:
+	tool to manage the repository
+
+Command:
+	git remote
+	git push
+	git pull
+
+A local repository is the one that you work on in your local machine. Remote repositories live elsewhere (e.g. a friend's computer, GitHub, etc.)
+
+Why Multiple Remotes?
+	Why would you want to have multiple remote repositories? We'll look at this later but briefly, if you are working with multiple developers then you might want to get changes they're working on in their branch(es) into your project before they merge them into the master branch. You might want to do this if you want to test out their change before you decide to implement your changes.
+
+	Another example is if you have a project whose code is hosted on Github but deploys via Git to Heroku. You would have one remote for the master and one for the deployment.
