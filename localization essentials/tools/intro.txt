@@ -1,0 +1,29 @@
+Project prepration:
+	1. translation managment tools 
+	2. localization project management tools
+	3. terminology management tools
+	4. translation memory management tools
+
+
+
+Localization project management tool is used to schedule localization tasks, monitor progress and control costs at a higher level.
+
+Translation management tools give information about a translation project, such as the number of words and translation memory matches but not about the overall progress of multiple localization tasks in multiple languages.
+
+Translation Memory management tools are for Translation Memories - which are databases of already translated terms. Translation memories are used to aid in translation. They do not give information about the completeness of a specific translation.
+
+Terminology Management Tools are used to create, manage and share with translators glossaries for specific localization projects. They do not give information about the completeness of a specific translation.
+
+
+
+
+https://translate.google.com/toolkit/list?hl=en#translations/active 
+you can use this to translate stuff:)
+
+
+NOTE
+********************
+Learn working with the GTT when needed
+https://classroom.udacity.com/courses/ud610/lessons/834f4540-acab-463b-b841-ab58ee453da2/concepts/c8578e3e-95fc-4bf2-980d-4205fbe9a195
+you can use this to learn
+********************

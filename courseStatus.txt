@@ -1,8 +1,10 @@
 Finished Courses:
 
 1. Linux command line basics
-2. make your own 2048
+2. Make your own 2048
 3. Writing READMEs
-4. shell workshop
-5. swift for beginners
-6. swift for Developers
+4. Shell workshop
+5. Swift for beginners
+6. Swift for Developers
+7. Localization essentials
+8. 
