@@ -1,0 +1,3 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	well for one companies all expect you to be able to work with Git
+	on the other hand if you suddenly make a mistake and delete everything you can just go back to the older version you have and not everything is lost

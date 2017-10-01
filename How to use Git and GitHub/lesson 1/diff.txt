@@ -1,0 +1,13 @@
+diff:
+	gives you the differences between two files you give the names of to
+
+	no sing:
+		they were in both files
+	+:
+		were added in the new file
+	-:
+		were in the old file but were deleted
+
+
+How to use it:
+	diff -u intro.txt intro2.txt 
