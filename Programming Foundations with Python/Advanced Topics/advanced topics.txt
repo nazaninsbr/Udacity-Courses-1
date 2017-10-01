@@ -1,0 +1,6 @@
+Class Variables:
+	variables that are assosiated with the entire class and not just one instance 
+	we will put these variables out side the __init__ function and without the self. thingy!
+
+	__doc__:
+		some documentation about the class

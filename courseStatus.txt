@@ -7,4 +7,4 @@ Finished Courses:
 5. Swift for beginners
 6. Swift for Developers
 7. Localization essentials
-8. 
+8. Programming Foundations with Python
