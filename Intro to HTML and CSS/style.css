@@ -1,0 +1,44 @@
+.heading_part{
+    margin-top: 30px;
+}
+.title_part{
+    margin-top: 1%;
+    text-align: right;
+}
+.title_part p{
+    font-family: 'Germania One', cursive;
+}
+.title_part h2{
+    font-family: 'Josefin Slab', serif;
+}
+hr{
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;                
+    background-color:gray;
+    height: 3px;
+}
+.img_wrapper{
+    width: 80%;
+}
+.image_part{
+    text-align: center;
+}
+.feature_work{
+    font-family: 'Germania One', cursive;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.work_part{
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+@media screen and (max-width: 800px){
+    .title_part{
+        margin-top: -17%;
+        text-align: right;
+    }
+}
