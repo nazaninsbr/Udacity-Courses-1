@@ -9,3 +9,4 @@ Finished Courses:
 7. Localization essentials
 8. Programming Foundations with Python
 9. Intro to HTML and CSS
+10. GitHub and collaboration

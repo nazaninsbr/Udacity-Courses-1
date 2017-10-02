@@ -1,0 +1,11 @@
+When working with a project that you've forked. The original project's maintainer will continue adding changes to their project. You'll want to keep your fork of their project in sync with theirs so that you can include any changes they make.
+
+To get commits from a source repository into your forked repository on GitHub you need to:
+
+get the cloneable URL of the source repository
+create a new remote with the git remote add command
+use the shortname upstream to point to the source repository
+provide the URL of the source repository
+fetch the new upstream remote
+merge the upstream's branch into a local branch
+push the newly updated local branch to your origin repo

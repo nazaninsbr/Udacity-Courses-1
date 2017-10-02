@@ -1,0 +1,22 @@
+In version control terminology if you "fork" a repository that means you duplicate it. Typically you fork a repository that belongs to someone else. So you make an identical copy of their repository and that duplicate copy now belongs to you.
+
+This concept of "forking" is also different from "cloning". When you clone a repository, you get an identical copy of the repository. But cloning happens on your local machine and you clone a remote repository. When you fork a repository, a new duplicate copy of the remote repository is created. This new copy is also a remote repository, but it now belongs to you.
+
+
+
+
+Push/Pull To The Fork
+Because forking a repository gives you a copy of it in your account, you can clone at down to your computer, make changes to it, and then push those changes back to the forked repository. But you need to keep in mind that it'll be pushing the changes back to your remote repository not to the original remote repository that you forked from
+
+the video is very helpful:
+
+https://www.youtube.com/watch?v=WRgNpr19t48
+
+
+
+
+
+Remember that the word origin is just the default name that's used when you git clone a remote repository for the first time. We're going to use the git remote command to add a new shortname and URL to this list. This will give us a connection to the source repository.
+
+$ git remote add upstream https://github.com/udacity/course-collaboration-travel-plans.git
+Notice that I've used the name upstream as the shortname to reference the source repository. As with the origin shortname, the word upstream here is not special in any way; It's just a regular word. This could have been any word... like the word "banana". But the word "upstream" is typically used to refer to the source repository.

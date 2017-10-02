@@ -1,1 +1,7 @@
 The output of git remote is just the word origin. Well that's weird. The word "origin", here, is referred to as a "shortname". A shortname is just a short and easy way to refer to the location of the remote repository. A shortname is local to the current repository (as in, your local repository). The word "origin" is the defacto name that's used to refer to the main remote repository. It's possible to rename this to something else, but typically it's left as "origin".
+
+
+
+git remote add 
+git remote -v
+git log --oneline --graph --decorate --all

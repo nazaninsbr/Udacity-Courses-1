@@ -1,0 +1,44 @@
+git push <remote-shortname> <branch>
+git push origin master
+
+
+
+Because GitHub has a web interface, it allows you to add commits manually through its interface. But just because you can do thing, doesn't mean you should. I've demoed making these changes this way so that we could simulate commits being on the remote repository but not in the local repository. But I recommend that you should always work locally on a project and then push those changes to the remote repository.
+
+
+
+
+git pull origin master
+
+
+
+
+Git fetch is used to retrieve commits from a remote repository's branch but it does not automatically merge the local branch with the remote tracking branch after those commits have been received.
+
+The above paragraph is a little dense so why don't you reread it one more time.
+
+You provide the exact same information to git fetch as you do for git pull. So you provide the shortname of the remote repository you want to fetch from and then the branch you want to fetch:
+
+
+
+
+
+ git fetch origin master
+
+
+
+
+
+
+
+
+
+You can think of the git pull command as doing two things:
+
+fetching remote changes (which adds the commits to the local repository and moves the tracking branch to point to them)
+merging the local branch with the tracking branch
+The git fetch command is just the first step. It just retrieves the commits and moves the tracking branch. It does not merge the local branch with the tracking branch. The same information provided to git pull is passed to git fetch:
+
+the shorname of the remote repository
+the branch with commits to retrieve
+
