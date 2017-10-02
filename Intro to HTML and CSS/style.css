@@ -19,8 +19,8 @@ hr{
     background-color:gray;
     height: 3px;
 }
-.img_wrapper{
-    width: 80%;
+.image_wrapper {
+    width: 100%;
 }
 .image_part{
     text-align: center;
