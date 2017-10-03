@@ -10,3 +10,4 @@ Finished Courses:
 8. Programming Foundations with Python
 9. Intro to HTML and CSS
 10. GitHub and collaboration
+11. Introduction to Programming in Python
