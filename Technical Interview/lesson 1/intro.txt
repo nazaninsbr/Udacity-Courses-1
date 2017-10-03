@@ -1,0 +1,23 @@
+Efficieny:
+
+	also called complexity
+
+	how well you are using your resources 
+
+	measured in time and space 
+
+
+Notation:
+
+	we will calculate efficieny using the big O notation 
+
+	O(n) --> n represents the size of the input to the function 
+
+
+Worst Case:
+	
+	1. the static part of the big O is not important
+
+		O(2n+4)  === O(2n)
+
+	2. we care about the worst possible situation 

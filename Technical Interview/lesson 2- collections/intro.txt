@@ -1,0 +1,6 @@
+Lists:
+	a group of things with an order
+
+	the order doesnt mean much and we could just keep adding things to the end 
+
+	
