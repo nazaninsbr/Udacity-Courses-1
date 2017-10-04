@@ -1,0 +1,3 @@
+git checkout 
+	
+	takes the files back to how they were at the time the commit was made
