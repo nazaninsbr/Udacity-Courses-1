@@ -1,0 +1,13 @@
+you can see what has changed between two commits using:
+	
+	git diff commit_number_1  commit_number_2
+
+
+	you can get the id using 
+
+		git log
+
+
+		git log --stat
+
+			what files were changed in the commit 

@@ -1,0 +1,3 @@
+git config --global color.ui auto 
+
+	to make the + and - when you run diff color coded

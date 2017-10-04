@@ -3,4 +3,65 @@ Lists:
 
 	the order doesnt mean much and we could just keep adding things to the end 
 
+
+Linked List:
+
+	characterised by its links 
+
+	they dont know how long the list is or what an specific element is 
+
+
+
+Array Vs. Linked list:
 	
+	1. they both store some value
+
+	2. in array they store the index in themself too
+
+		however in a linked list you store the next element 
+
+
+
+Stack:
+	
+	list based data structure
+
+	the main idea is: you keep elements on top
+
+		you can get the top element easily 
+
+		LIFO
+
+		useful when:
+
+		- you care about the order they were added 
+		- yo ucare about the element on top
+
+		pop()
+		push()
+
+
+Queue:
+
+	FIFO
+
+	the oldest element (the first element) = head
+
+	dequeue -> you remove the head element 
+
+	the newest element (the last element) = tail
+
+	enqueue -> you remove the tail element 
+
+
+	peak -> you just see the head but dont remove it 
+
+
+	priority queue = you remove the highest priority element first 
+
+	if the priorities are the same, you remove the head (the oldest element)
+
+
+
+
+

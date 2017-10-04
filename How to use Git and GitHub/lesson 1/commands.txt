@@ -1,0 +1,7 @@
+git log
+
+
+git diff first_id second_id
+
+
+git clone url
