@@ -11,3 +11,4 @@ Finished Courses:
 9. Intro to HTML and CSS
 10. GitHub and collaboration
 11. Introduction to Programming in Python
+12. Intro to Java: Functional Programming
