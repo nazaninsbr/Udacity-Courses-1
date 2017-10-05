@@ -1,0 +1,16 @@
+User mode:
+
+	- running applications
+
+
+Trying to do prigiledeg mode stuff on user mode results in a trap instruction 
+the interaction can also be called a system call
+such as:
+	malloc
+	open
+	send
+
+Kernel mode:
+
+	- access to memory 
+	- access to hardware

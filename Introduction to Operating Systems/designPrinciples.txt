@@ -1,0 +1,9 @@
+- separation of mechanism and policy 
+
+	implement flexible mechanisms to support many policies
+
+- optimize for common case
+
+	where will it be run on?
+	what are the requirements?
+	what will be executed on this?

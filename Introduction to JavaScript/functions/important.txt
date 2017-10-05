@@ -1,0 +1,1 @@
+The variable declaration is hoisted to the top of current scope (the top of the function). Remember that the declaration is hoisted, not the assignment. 
