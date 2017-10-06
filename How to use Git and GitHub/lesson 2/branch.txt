@@ -1,0 +1,12 @@
+git branch 
+	will show you the branches
+
+
+git branch name
+	adds a branch called name
+
+git checkout branch_name
+	takes you to the branch name and you will be commiting to that branch
+
+when to create branches?
+	when you start working on something new, such as a new feature or logical thing
