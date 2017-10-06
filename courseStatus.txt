@@ -1,4 +1,4 @@
-Finished Courses:
+Completed Courses:
 
 1. Linux command line basics
 2. Make your own 2048
