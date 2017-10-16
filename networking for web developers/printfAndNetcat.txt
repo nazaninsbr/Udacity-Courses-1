@@ -1,0 +1,9 @@
+printf
+	you can print stuff out 
+
+nc
+	netcat 
+	talks to enternet services automatically 
+
+
+take a look at the image file. 

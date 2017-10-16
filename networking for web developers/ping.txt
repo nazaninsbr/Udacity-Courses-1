@@ -1,0 +1,7 @@
+ping -c3 8.8.8.8
+
+	testing if your computer can send and recive network traffic with that address
+
+	packet:
+		short message sent from one computer to another
+		address of sender and recipient are on the message
