@@ -1,0 +1,6 @@
+make a copy of someone elses repository without having to copy it on your own machine and then uploading it again 
+
+
+you can now suggest changes to the owner
+
+you give the owner some credit this way

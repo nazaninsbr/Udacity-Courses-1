@@ -13,4 +13,4 @@ Completed Courses:
 11. Introduction to Programming in Python
 12. Intro to Java: Functional Programming
 13. Intro to JavaScript
-14. 
+14. How to use Git and GitHub

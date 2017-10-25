@@ -1,0 +1,1 @@
+In both of those diagrams, you can reach a from b, so you can do a fast-forward merge.
