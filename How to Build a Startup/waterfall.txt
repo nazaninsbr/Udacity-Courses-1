@@ -1,0 +1,9 @@
+it means that we do these things step by step:
+	1. marketing writes the requirements 
+	2. engineering turns those into features, designs the produc 
+	3. Implement
+	4. test and verify 
+	5. maintain 
+
+in this developement we need to understand on day one the customers needs and problems 
+

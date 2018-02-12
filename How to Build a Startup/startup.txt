@@ -1,0 +1,5 @@
+startup:
+	a temporary organization designed to search for a repeatable and scalable business model 
+
+business model:
+	how a company creates value for itself while delivering products or services for customers

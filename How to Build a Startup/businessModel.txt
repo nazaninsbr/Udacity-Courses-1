@@ -1,0 +1,54 @@
+business model:
+	how a company creates value for itself while delivering products or services for customers
+
+	value proposition:
+
+		it is not about your idea or product it is about solving a need  of the customer 
+
+		what pain are you solving 
+		what are you building 
+		what problem do you solve and what need do you satisfy 
+
+	customer segment:
+
+		who are your customers
+		why would they buy
+
+	channels: 
+
+		how does your product get to your customer 
+
+	customer relationships:
+
+		how do I get customers, how do I keep them and how do I grow them?
+
+	revenue stream:
+
+		how do you make money?
+		what value is the customer paying for?
+
+	key resources:
+
+		what is important? what do we need to make the business work?
+		what are the most important assets to make the business model work?
+		physical, finance, human, intellectual
+
+	partners:
+
+		who are your partners and suppliers?
+		what are we getting from the partners?
+		what activities are the partners going to do?
+
+	key activities:
+
+		what important things do we need to do?
+		production, problem solving , ...
+		what key activities do we need to become an expert at
+
+	costs:
+
+		what are the costs and expences 
+		building, people 
+		what key activities are the most expensive? 
+
+
