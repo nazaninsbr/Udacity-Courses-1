@@ -1,0 +1,21 @@
+An IPv4 address is actually a 32-bit numeric value. We usually write it as a dotted quad
+
+netblocks 
+	
+	172.64.0.0/14
+	/16 -> 255.255.0.0
+
+
+addr show
+ifconfig
+
+localhost has ip 127.0.0.1
+
+router
+	connect two different networks
+
+	default gateway
+
+netstat -nr
+
+NAT

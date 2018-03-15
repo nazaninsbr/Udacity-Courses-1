@@ -1,0 +1,32 @@
+IP address
+
+ping yahoo.com
+	
+	tells you the ip address too 
+
+ping -c 7 yahoo.com
+
+	only send 7 pings 
+
+DNS 
+	
+	A records: gets the ip address from the hostname
+	Cname records
+	AAAA (quad-a)
+	NS
+
+	** domains
+		top level domain
+		sub domain
+
+host google.com
+host -t a google.com
+
+
+dig udacity.com
+
+IPv4
+IPv6
+
+The port number field in the TCP packet header is 16 bits wide.
+

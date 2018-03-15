@@ -1,0 +1,22 @@
+tcpdump
+
+	sudo tcpdump -n host 8.8.8.8
+
+sequence diagram 
+
+TCP flags
+
+	SYN (synchronize) [S] — This packet is opening a new TCP session and contains a new initial sequence number.
+
+	FIN (finish) [F] — This packet is used to close a TCP session normally. The sender is saying that they are finished sending, but they can still receive data from the other endpoint.
+
+	PSH (push) [P] — This packet is the end of a chunk of application data, such as an HTTP request.
+
+	RST (reset) [R] — This packet is a TCP error message; the sender has a problem and wants to reset (abandon) the session.
+
+	ACK (acknowledge) [.] — This packet acknowledges that its sender has received data from the other endpoint. Almost every packet except the first SYN will have the ACK flag set.
+
+	URG (urgent) [U] — This packet contains data that needs to be delivered to the application out-of-order. Not used in HTTP or most other current applications.
+
+
+packet loss

@@ -1,0 +1,11 @@
+traceroute google.com	
+
+mtr google.com
+
+TTL
+
+bandwidth 
+
+bandwidth * delay -> the amount of data that can be in transit through a connection 
+
+congestion
