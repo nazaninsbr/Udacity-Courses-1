@@ -17,6 +17,7 @@
 	<li>How to use Git and GitHub</li>
 	<li>Networking for Web Developers</li>
 	<li>GitHub and collaboration</li>
+	<li>Android Basics: User Interface</li>
 	<!-- <li></li>
 	<li></li>
 	<li></li> -->
