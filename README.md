@@ -23,4 +23,4 @@
 	<li></li> -->
 </ol>
 
-(stopped working on) How to Build a Startup (because I felt like I had learned what I had came for, I was just looking for an introduction and I feel like I got it and I think that at this moment I wouldn't have any use for more but I'll come back to this course if one day I felt like I wanted to learn more)
+<strong>(stopped working on)</strong> How to Build a Startup (because I felt like I had learned what I had came for, I was just looking for an introduction and I feel like I got it and I think that at this moment I wouldn't have any use for more but I'll come back to this course if one day I felt like I wanted to learn more)
